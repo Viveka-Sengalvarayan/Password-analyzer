@@ -96,6 +96,22 @@ python gui_analyzer.py
 
 ---
 
+## 📸 Sample Outputs
+
+### Weak Password Analysis
+
+<img width="620" height="596" alt="Screenshot 2026-06-25 225605" src="https://github.com/user-attachments/assets/dc2a71d0-0712-46c9-a6ec-e69e0de00599" />
+
+
+### Medium Password Analysis
+
+<img width="617" height="591" alt="Screenshot 2026-06-25 225624" src="https://github.com/user-attachments/assets/8197eabe-cfac-4b98-bc5a-6d5bf340f5e4" />
+
+
+### Strong Password Analysis
+
+<img width="622" height="590" alt="Screenshot 2026-06-25 225646" src="https://github.com/user-attachments/assets/59c9499e-1d3c-44e7-8ff9-d3ad7d18f938" />
+
 ## 📚 Cybersecurity Concepts Applied
 
 * Password Security
